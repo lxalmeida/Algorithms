@@ -1,0 +1,42 @@
+	Algorithms Project
+	
+	INTRODUCTION
+	
+	Someday I was just bored and decided to
+learn a new programming language. My choice was Ruby and, I'll tell you, I do not regret it.
+I really appreciate algorithms and data structures, so at the time I thought
+implementing sorting algorithms was a good way to get the hang of the
+language basics. This project is the result of my learnings, and I
+release it as GPLv3 to the world. :)
+	
+	The development is based on Cormen's Introduction to Algorithms:
+
+	@book{Cormen:2001:IA:580470,
+	 author = {Cormen, Thomas H. and Stein, Clifford and Rivest, Ronald L. and Leiserson, Charles E.},
+	 title = {Introduction to Algorithms},
+	 year = {2001},
+	 isbn = {0070131511},
+	 edition = {2nd},
+	 publisher = {McGraw-Hill Higher Education},
+	}
+
+	In the future, I might add new algorithms as I please, like graph
+algorithms.
+
+	USAGE
+	
+	If you want to run the sorting algorithms right away, I wrote a small script
+called Sort/Sort.rb that invokes each one of the sorting algs. using a dummy array.
+It also outputs the running time of each algorithm, so you can have a "taste" of the
+different complexities (also, you can export the timings and plot nice graphs if you
+deserve to :). 
+	All the algorithms are commented in Portuguese (sorry if you're unfamiliar with
+the language). In the future I plan to replace my pt_BR comments to en_US ones. Well,
+anyway, it's Ruby. You can read the scripts almost as they were coded in plain English :)
+
+
+This is it. Enjoy.
+
+--
+Alexandre Almeida
+lx[dot]vini[dot]almeida[at]gmail[dot]com
